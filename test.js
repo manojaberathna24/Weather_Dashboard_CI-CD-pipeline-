@@ -2,7 +2,7 @@
 
 /**
  * Simple test runner for CI/CD pipeline
- * Validates basic functionality
+ * Validates basic functionalityy
  */
 
 console.log('🧪 Running tests...\n');
